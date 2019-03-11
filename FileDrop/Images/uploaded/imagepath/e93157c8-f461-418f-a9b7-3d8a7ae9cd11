@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        .no-visible{
+            display: none;
+        }
+    </style>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' href='../css/util.css'>
+    <link rel='stylesheet' type='text/css' href='../css/main.css'>
+    <link rel='icon' type='image/jpg' href='../images/icons/Cajanauta01.jpg' />
+</head>
+
+<body>
+    <div class='limiter'>
+        <div class='container-login100' style='background-image: url(../images/Space1.png);'>
+            <div class='wrap-login100'>
+                <div class='login100-form-title' style='background-image: url(../images/Nauta-in-Space.jpg);'>
+                    <img src='https://images-na.ssl-images-amazon.com/images/I/81aoNZFMbkL._SL1500_.jpg'
+                        alt='Producto' style='max-width: 200px;'>
+                    <span class='login100-form-title-1'>Disponible en:</span>
+                </div>
+                <div class='@classAmazon' style=' width:100%'>
+                    <a href='https://www.amazon.com.mx/Canon-Rebel-Cuerpo-18-55mm-Negro/dp/B06VT2NQD8/ref=sr_1_1?__mk_es_MX=ÅMÅŽÕÑ&keywords=Canon+Eos+Rebel+T7i&qid=1550215313&s=gateway&sr=8-1' target="_blank">
+                        <img src='../images/amazon-white.png' alt='Amazon' style=' display: block; margin-left: auto; margin-right: auto; max-width:30%; box-shadow: 2px 2px 5px gray;'>
+                    </a>
+                </div>
+                <div class='@classLinio' style=' width:100%'>
+                    <a href='https://www.linio.com.mx/p/camara-canon-eos-rebel-t7i-18-55-wifi-nfc-vi-deo-fullhd-60fp-16-gb-sd--vahinn' target="_blank">
+                        <img src='../images/linio-white.png' alt='Linio' style=' display: block; margin-left: auto; margin-right: auto; max-width:30%; box-shadow: 2px 2px 5px gray;'>
+                    </a>
+                </div>
+                <div class='no-visible' style=' width:100%'>
+                    <a href='@urlMercadoLibre' target="_blank">
+                        <img src='../images/ML-white.png' alt='Mercado Libre' style=' display: block; margin-left: auto; margin-right: auto; max-width:30%; box-shadow: 2px 2px 5px gray;'>
+                    </a>
+                </div>                
+                <div class='no-visible' style=' width:100%'>
+                    <a href='@urlKichink' target="_blank">
+                        <img src='../images/kichink-white.png' alt='Kichink' style=' display: block; margin-left: auto; margin-right: auto; max-width:30%; box-shadow: 2px 2px 5px gray;'>
+                    </a>
+                </div>
+                <div class='no-visible' style=' width:100%'>
+                    <a href='@urlWalmart' target="_blank">
+                        <img src='../images/Walmart-white.png' alt='Walmart' style=' display: block; margin-left: auto; margin-right: auto; max-width:30%; box-shadow: 2px 2px 5px gray;'>
+                    </a>
+                </div>
+                <div class='no-visible' style=' width:100%'>
+                    <a href='@urlEtsy' target="_blank">
+                        <img src='../images/etsy-white.png' alt='Etsy' style=' display: block; margin-left: auto; margin-right: auto; max-width:30%; box-shadow: 2px 2px 5px gray;'>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>
